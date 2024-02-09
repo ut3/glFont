@@ -9,5 +9,3 @@ However, I was not able to find a copy online except through archive.org, and th
 [https://web.archive.org/web/20070305024021/http://students.cs.byu.edu/~bfish/glfont.zip](https://web.archive.org/web/20070305024021/http://students.cs.byu.edu/~bfish/glfont.zip)
 
 At the time I downloaded this file, it had a sha1sum of a781c4f5e1be18b12cda16adc4138cb3fea175bc
-
-A current email address for Brad Fish is brad.fish@gmail.com
